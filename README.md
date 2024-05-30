@@ -1,3 +1,3 @@
 # EXCEL-Coffe_Shop_Sales_Analysis
-<img src="/https://logowik.com/content/uploads/images/coffee-shop4933.logowik.com.webp" height="300">
+<img src="https://img.freepik.com/free-vector/coffee-shop-building-concept-illustration_114360-15917.jpg" height="300">
 Data Analytics Project
