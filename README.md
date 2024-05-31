@@ -47,9 +47,3 @@ This project provides a comprehensive analysis of coffee sales data, offering va
 ## Contributing
 Contributions are welcome! Please feel free to fork the repository and submit pull requests.
 
-## License
-This project is licensed under the MIT License.
-
----
-
-For more details, please refer to the individual analysis sections within the Excel file included in this repository.
