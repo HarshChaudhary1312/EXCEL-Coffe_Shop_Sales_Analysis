@@ -41,6 +41,9 @@ This project leverages Excel to analyze retail sales data from a Coffee Shop wit
 ## Tools and Technologies
 - **Microsoft Excel:** For data analysis and visualization.
 
+## Color Reference Palette
+Colors : https://www.color-hex.com/color-palette/30023
+
 ## Conclusion
 This project provides a comprehensive analysis of coffee sales data, offering valuable insights that can drive strategic decisions and improve the overall performance of the Coffee Shop. By understanding sales trends, customer behavior, and product performance, stakeholders can make informed decisions to optimize operations and boost sales.
 
