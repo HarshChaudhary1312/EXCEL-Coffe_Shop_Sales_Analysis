@@ -1,5 +1,5 @@
 # Coffee Sales Data Analysis Project
-<img src="https://img.freepik.com/free-vector/coffee-shop-building-concept-illustration_114360-15917.jpg" height="530">
+<img src="https://img.freepik.com/free-vector/coffee-shop-building-concept-illustration_114360-15917.jpg" height="450">
 
 ## Overview
 This project leverages Excel to analyze retail sales data from a Coffee Shop with the goal of deriving actionable insights that can enhance overall performance. The analysis focuses on understanding sales patterns by time, location, product, and customer behavior.
